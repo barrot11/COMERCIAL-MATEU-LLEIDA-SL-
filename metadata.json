@@ -1,0 +1,6 @@
+{
+  "name": "Comercial Mateu",
+  "description": "Pàgina web oficial de Comercial Mateu Lleida SL - Especialistes en pintures, vernissos i maquinària des de 1966.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
